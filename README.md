@@ -5,8 +5,8 @@ Built with pure **HTML & CSS**, focused on clean design and simplicity.
 
 ---
 
-## 🚀 Live Demo
-👉 [View Portfolio](https://<your-github-username>.github.io/<repo-name>/)
+## 🚀 Live Demo = ( https://pankayadav9555.github.io/portfolio/)
+
 
 *(Replace `<your-github-username>` and `<repo-name>` with your GitHub username and repository name.)*
 
